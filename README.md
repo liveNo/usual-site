@@ -30,3 +30,11 @@ http://www.html5cn.org/   HTML5 中文社区
 http://www.wooyun.org/  乌云漏洞，可以查看最新各网站的漏洞 
 
 http://overapi.com/   各种语言API文档
+
+http://www.tutorialspoint.com/ IT入门教锦集 （包括各门语言的入门教程PHP、JAVA、Hadoop、Perl、Python、Javascript等）;
+
+http://www.jianshu.com/    简书  各类博文 IT类、生活类、体育类等。
+
+http://www.infoq.com/cn/articles/yupoo-partition-database    又拍网架构中的分库设计（具体博文）
+
+http://blog.51yip.com/  一个个人开发经验总结的博客  涉及PHP开发、服务器架构、seo优化等
