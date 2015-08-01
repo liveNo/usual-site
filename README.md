@@ -38,3 +38,13 @@ http://www.jianshu.com/    简书  各类博文 IT类、生活类、体育类等
 http://www.infoq.com/cn/articles/yupoo-partition-database    又拍网架构中的分库设计（具体博文）
 
 http://blog.51yip.com/  一个个人开发经验总结的博客  涉及PHP开发、服务器架构、seo优化等
+
+
+
+
+# 工具类站点
+http://sqlfiddle.com/       一个在线数据库测试和分享工具
+
+
+
+
