@@ -7,7 +7,7 @@ http://www.cocoachina.com/   苹果开发者中文社区
 技术社区：
 http://community.sitepoint.com/   英文社区，前端后端技术论坛
 
-相关站点：
+PHP/Javascript/Other相关站点：
 
 http://www.laruence.com/   风雪之隅   PHP  大牛鸟哥的博客 
 
@@ -39,7 +39,7 @@ http://www.infoq.com/cn/articles/yupoo-partition-database    又拍网架构中�
 
 http://blog.51yip.com/  一个个人开发经验总结的博客  涉及PHP开发、服务器架构、seo优化等
 
-
+http://mootools.net/   MoolTools 是一个简洁，模块化，面向对象的开源Javascript web 应用框架
 
 
 # 工具类站点
