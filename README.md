@@ -45,6 +45,8 @@ http://mootools.net/   MoolTools 是一个简洁，模块化，面向对象的�
 # 工具类站点
 http://sqlfiddle.com/       一个在线数据库测试和分享工具
 
+http://docs.phpcomposer.com/  PHP Composer 中文文档
+
 
 
 
