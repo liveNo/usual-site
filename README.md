@@ -23,7 +23,7 @@ http://www.liaoxuefeng.com/  廖雪峰老师的站点，包含git和python的阶
 
 http://www.jq22.com/  Jquery 插件库 
 
-https://linux.cn/   Linux 开源社区 
+https://linux.cn/   Linux 开源社区   Linux中国是专注于中文Linux技术、资讯的社区，在这里你可以获得一手的Linux资讯和技术知识。
 
 http://www.html5cn.org/   HTML5 中文社区 
 
@@ -41,9 +41,19 @@ http://blog.51yip.com/  一个个人开发经验总结的博客  涉及PHP开发
 
 http://mootools.net/   MoolTools 是一个简洁，模块化，面向对象的开源Javascript web 应用框架
 
+http://www.chinaunix.net/  创办于2001年，是一个以讨论Linux/Unix类操作系统技术、软件开发技术、数据库技术和网络应用技术等为主的开源技术社区网站。
+
+http://bbs.linuxeden.com/index.php   中文GNU/Linux开源社区，开源资讯门户网站，提供最新最快的Linux和开源资讯，24小时滚动更新。
+
+http://www.linux.com/   英文类学习Linux的最好网站，也是Linux使用经验的汇聚地。
+
+
+
 
 # 工具类站点
 http://sqlfiddle.com/       一个在线数据库测试和分享工具
+
+http://docs.phpcomposer.com/  PHP Composer 中文文档
 
 
 
