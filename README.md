@@ -47,7 +47,7 @@ http://bbs.linuxeden.com/index.php   中文GNU/Linux开源社区，开源资讯�
 
 http://www.linux.com/   英文类学习Linux的最好网站，也是Linux使用经验的汇聚地。
 
-
+http://www.awesomes.cn/  前端资源库，深度对接github
 
 
 # 工具类站点
