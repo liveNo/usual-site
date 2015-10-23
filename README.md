@@ -49,6 +49,10 @@
 
 - [Cocode](http://cocode.cc/)  一个让大家学习、成长、相聚并获得乐趣的技术社区
 
+- [GotGitHub](http://www.worldhello.net/gotgithub/index.html)  关于GitHub 的书
+
+- [PHP之道](http://wulijun.github.io/php-the-right-way/#site-header) 关于PHP 方面的书
+
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
 
