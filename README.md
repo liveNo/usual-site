@@ -3,6 +3,8 @@
 
 ## 技术Site列表：
 
+- [开发者头条](http://www.toutiao.io) 开发者头条，技术类专业网站，精品技术类文章
+
 - [cocoachina](http://www.cocoachina.com/)   *苹果开发者中文社区*
 
 - [前端后端技术论坛](http://community.sitepoint.com/)   英文社区
