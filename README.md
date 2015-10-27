@@ -55,6 +55,12 @@
 
 - [PHP之道](http://wulijun.github.io/php-the-right-way/#site-header) 关于PHP 方面的书
 
+- [张宴的博客](http://zyan.cc) 张宴的博客
+
+- [php-open](http://php-open.com) 做PHP的应该知道的
+
+
+
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
 
