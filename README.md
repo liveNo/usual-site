@@ -59,7 +59,13 @@
 
 - [php-open](http://php-open.com) 做PHP的应该知道的
 
+- [并发编程网](http://ifeve.com) 
 
+- [Startup News](http://news.dbanotes.net/news)
+
+- [潘家邦](http://blog.jamespan.me)
+
+- [V2EX](http://www.v2ex.com)
 
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
