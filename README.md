@@ -71,6 +71,8 @@
 
 - [360网站卫士常用前端公共库CDN服务](http://libs.useso.com)
 
+- [Git语言开发者排名](http://githuber.cn/rank)
+
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
 
