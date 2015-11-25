@@ -67,12 +67,18 @@
 
 - [V2EX](http://www.v2ex.com)
 
--[网络安全](http://www.xfocus.net)
+- [网络安全](http://www.xfocus.net)
+
+- [360网站卫士常用前端公共库CDN服务](http://libs.useso.com)
+
+- [Git语言开发者排名](http://githuber.cn/rank)
 
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
 
 - [Composer](http://docs.phpcomposer.com/)  PHP Composer 中文文档
+
+- [GitBook](https://www.gitbook.com)
 
 
 
