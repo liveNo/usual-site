@@ -82,4 +82,8 @@
 
 - [bitscn 网管之家](http://www.bitscn.com)
 
+- [向东博客](http://www.justwinit.cn)
+
+- [Rango的博客](http://rango.swoole.com)
+
 
