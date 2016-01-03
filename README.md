@@ -73,6 +73,15 @@
 
 - [Git语言开发者排名](http://githuber.cn/rank)
 
+- [闯过这 54 关，点亮你的 Git 技能树](http://www.codingstyle.cn/topics/51)  游戏中学习Git
+
+- [「Jenkins+Git+Maven+Shell+Tomcat持续集成」经典教程](http://mousycoder.com/2015/10/14/jenkins-git-maven-shell-tomcat-ci/) Jenkins 应用
+
+- [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/) Javascript 迷你库
+
+- [九十分钟极速入门Linux——Linux Guide for Development 学习笔记](http://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=404510068&idx=2&sn=0fc406025644a60ae8a94f3ff0cba626&scene=23&srcid=0101ZDCyZGjWLS8ygofWkNSh#rd)
+
+
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
 
@@ -80,6 +89,10 @@
 
 - [GitBook](https://www.gitbook.com)
 
+- [bitscn 网管之家](http://www.bitscn.com)
 
+- [向东博客](http://www.justwinit.cn)
+
+- [Rango的博客](http://rango.swoole.com)
 
 
