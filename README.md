@@ -79,6 +79,9 @@
 
 - [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/) Javascript 迷你库
 
+- [九十分钟极速入门Linux——Linux Guide for Development 学习笔记](http://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=404510068&idx=2&sn=0fc406025644a60ae8a94f3ff0cba626&scene=23&srcid=0101ZDCyZGjWLS8ygofWkNSh#rd)
+
+
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
 
