@@ -81,6 +81,8 @@
 
 - [美团点评技术](http://tech.meituan.com)
 
+- [freebuf] (http://www.freebuf.com/)
+
 
 ## 工具类站点
 - [一个在线数据库测试和分享工具](http://sqlfiddle.com/)       
