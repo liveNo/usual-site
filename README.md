@@ -81,7 +81,9 @@
 
 - [美团点评技术](http://tech.meituan.com)
 
-- [freebuf] (http://www.freebuf.com/)
+- [freebuf] (http://www.freebuf.com/) FreeBuf.COM | 关注黑客与极客
+
+- [Python渗透测试工具合集](http://www.freebuf.com/tools/94777.html)
 
 
 ## 工具类站点
