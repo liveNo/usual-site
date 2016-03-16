@@ -103,7 +103,7 @@
 
 - [Swiper中文网](http://www.swiper.com.cn/) 移动端触摸滑动插件
 
-
+- [Github上有意思的项目推荐](http://www.imooc.com/article/1977)
 
 
 
